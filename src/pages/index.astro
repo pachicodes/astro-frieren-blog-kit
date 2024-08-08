@@ -12,13 +12,13 @@ const currentYear = new Date().getFullYear();
   </head>
   <body>
     <!-- Navbar -->
-    <nav class="bg-purple-500 fixed w-full z-20 top-0 start-0">
+    <nav class="bg-purple-900 fixed w-full z-20 top-0 start-0">
       <div
-        class="max-w-screen-xl mx-auto flex items-center justify-center p-4 text-gray-900"
+        class="max-w-screen-xl mx-auto flex items-center justify-center p-4 text-gray-300"
       >
         <a
           href="/about"
-          class="font-semibold text-gray-900 hover:text-purple-900 mr-8 relative group"
+          class="font-semibold text-gray-300 hover:text-purple-500 mr-8 relative group"
         >
           <span class="relative z-10">About</span>
           <span
@@ -30,7 +30,7 @@ const currentYear = new Date().getFullYear();
 
         <a
           href="/blog"
-          class="font-semibold text-gray-900 hover:text-purple-900 ml-8 relative group"
+          class="font-semibold text-gray-300 hover:text-purple-500 ml-8 relative group"
         >
           <span class="relative z-10">Blog</span>
           <span
@@ -318,7 +318,7 @@ const currentYear = new Date().getFullYear();
     <section class="bg-gray-900 relative pt-12">
       <!-- Background pattern -->
       <div
-        class="absolute inset-x-0 top-1/2 h-1/2 bg-purple-900 bg-opacity-70 transform -translate-y-1/2 overflow-hidden"
+        class="absolute inset-x-0 top-1/2 h-1/2 bg-purple-500 bg-opacity-70 transform -translate-y-1/2 overflow-hidden"
       >
       </div>
       <!-- Contact form -->
@@ -340,13 +340,13 @@ const currentYear = new Date().getFullYear();
           <div
             class="md:absolute md:top-1/2 md:right-[-15%] md:transform md:-translate-y-1/2 md:w-3/5 z-10"
           >
-            <div class="bg-purple-500 p-8 rounded-lg shadow-lg max-w-md w-full">
+            <div class="bg-purple-900 p-8 rounded-lg shadow-lg max-w-md w-full">
               <h2
-                class="mb-4 text-3xl tracking-tight font-extrabold text-center text-gray-900"
+                class="mb-4 text-3xl tracking-tight font-extrabold text-center text-gray-300"
               >
                 Let's Connect!
               </h2>
-              <p class="mb-8 font-light text-center text-gray-900 sm:text-lg">
+              <p class="mb-8 font-light text-center text-gray-300 sm:text-lg">
                 Reach out below for any inquiries or to discuss potential
                 collaborations.
               </p>
@@ -354,14 +354,14 @@ const currentYear = new Date().getFullYear();
                 <div>
                   <label
                     for="first-name"
-                    class="block mb-2 text-sm font-medium text-gray-900"
+                    class="block mb-2 text-sm font-semibold text-purple-500"
                   >
-                    First Name
+                    FIRST NAME
                   </label>
                   <input
                     type="text"
                     id="first-name"
-                    class="block p-3 w-full text-sm text-gray-900 bg-purple-500 rounded-full border-4 border-gray-900 shadow-sm focus:ring-purple-500 focus:border-purple-900 placeholder-gray-800"
+                    class="block p-3 w-full text-sm font-medium text-purple-500 bg-purple-900 rounded-full border-4 border-gray-300 shadow-sm focus:ring-purple-500 focus:border-purple-500 placeholder-purple-500"
                     placeholder="e.g. Jon Snow"
                     required
                   />
@@ -369,14 +369,14 @@ const currentYear = new Date().getFullYear();
                 <div>
                   <label
                     for="email"
-                    class="block mb-2 text-sm font-medium text-gray-900"
+                    class="block mb-2 text-sm font-semibold text-purple-500"
                   >
-                    Your email
+                    YOUR EMAIL
                   </label>
                   <input
                     type="email"
                     id="email"
-                    class="block p-3 w-full text-sm text-gray-900 bg-purple-500 rounded-full border-4 border-gray-900 shadow-sm focus:ring-purple-500 focus:border-purple-900 placeholder-gray-800"
+                    class="block p-3 w-full text-sm text-purple-500 bg-purple-900 rounded-full border-4 border-gray-300 shadow-sm focus:ring-purple-500 focus:border-purple-500 placeholder-purple-500"
                     placeholder="e.g. jon.snow@winterfell.com"
                     required
                   />
@@ -384,9 +384,9 @@ const currentYear = new Date().getFullYear();
                 <div class="flex justify-center">
                   <button
                     type="submit"
-                    class="py-3 px-5 text-sm font-medium text-center text-white rounded-lg bg-purple-600 hover:bg-purple-700 focus:ring-4 focus:outline-none focus:ring-purple-300 transition-colors duration-300"
+                    class="py-3 px-5 text-sm font-semibold text-center text-gray-900 rounded-full border-4 border-purple-500 bg-purple-500 hover:bg-purple-800 hover:border-purple-500 focus:ring-4 focus:outline-none focus:ring-purple-500 transition-colors duration-300"
                   >
-                    Contact Me
+                    Contact Me!
                   </button>
                 </div>
               </form>
@@ -396,20 +396,21 @@ const currentYear = new Date().getFullYear();
       </div>
     </section>
     <!-- Footer -->
-    <footer class="bg-purple-500 w-full bottom-0 start-0">
+    <footer class="bg-purple-900 w-full bottom-0 start-0">
       <div
         class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between"
       >
-        <span class="text-sm text-gray-900 sm:text-center"
+        <span class="text-sm text-gray-300 sm:text-center"
           >© {currentYear}
-          <a href="/" class="hover:underline">Jerami Tech</a>. All Rights
-          Reserved.
+          <a href="https://leifjerami.com" class="hover:underline"
+            >Jerami Tech</a
+          >. All Rights Reserved.
         </span>
         <ul
-          class="flex flex-wrap justify-center md:justify-end items-center text-sm font-medium text-gray-900"
+          class="flex flex-wrap justify-center md:justify-end items-center text-sm font-medium text-gray-300"
         >
           <li>
-            <a href="#" class="hover:underline px-2 py-1">About</a>
+            <a href="/about" class="hover:underline px-2 py-1">About</a>
           </li>
           <li>
             <a href="#" class="hover:underline px-2 py-1">Privacy Policy</a>
