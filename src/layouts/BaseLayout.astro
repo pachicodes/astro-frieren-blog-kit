@@ -1,8 +1,9 @@
 ---
 import Navbar from "../components/Navbar.astro";
 import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../constants";
 
-const { title = "AstroNote Boilerplate" } = Astro.props;
+const { title = "Astro website powered by NotionCMS" } = Astro.props;
 ---
 
 <html lang="en">
@@ -10,8 +11,8 @@ const { title = "AstroNote Boilerplate" } = Astro.props;
     <meta charset="utf-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>{title}</title>
+    <meta name="description" content={SITE_DESCRIPTION} />
+    <title>{SITE_TITLE} - {title}</title>
   </head>
   <body>
     <Navbar />
