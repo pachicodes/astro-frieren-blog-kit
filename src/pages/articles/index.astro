@@ -13,8 +13,12 @@ const allBlogArticles: CollectionEntry<"blog">[] = (
 ---
 
 <BaseLayout>
-  <h1 class="text-4xl font-semibold pt-12 text-center">All Articles</h1>
-  <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-    {allBlogArticles.map((article) => <ArticleCard article={article} />)}
+  <div class="bg-gray-900">
+    <h1 class="text-4xl font-semibold pt-12 text-center text-gray-300">
+      All Articles
+    </h1>
+    <div class="py-8 px-8 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {allBlogArticles.map((article) => <ArticleCard article={article} />)}
+    </div>
   </div>
 </BaseLayout>
