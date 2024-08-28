@@ -1,17 +1,15 @@
-# AstroNote: Portfolio Starter Kit
+# Astro Frieren Blog Kit
 
 [netlify success]
 [image in action]
 
-## What is AstroNote? And Portfolio Kit?
+## What is it about??
 
-- It's actually short for Astro + Notion.
-- And this one is a starter kit to build a portfolio website.
-- It's using FAST stack and Notion as CMS.
+- It's an Astro blog theme based on the popular anime, [Frieren]().
 
 ### See it in action
 
-[astronote-portfolio.netlify.app](https://astronote-portfolio.netlify.app)
+[astro-frieren-blog.netlify.app](https://astro-frieren-blog.netlify.app)
 
 ## Deploy to Production
 
@@ -20,11 +18,11 @@
 ### Or clone this repo
 
 ```
-git clone https://github.com/fishingelephants/astronote-portfolio astroport
+git clone https://github.com/fishingelephants/astro-frieren-blog frieren-blog
 ```
 
 ```
-cd astroport
+cd frieren-blog
 ```
 
 ```
