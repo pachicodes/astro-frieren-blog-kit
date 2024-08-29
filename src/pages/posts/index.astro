@@ -1,0 +1,20 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Section from "../../components/Section.astro";
+import Card from "../../components/Card.astro";
+import { sortPostsByDate } from "../../utils/data.util";
+
+const allPosts = await Astro.glob("./*.md");
+allPosts.sort(sortPostsByDate);
+---
+
+<BaseLayout />
+<Section>
+  {
+    allPosts.map((post: any) => (
+      <div class="mb-4 basis-1 last:mb-0">
+        <Card post={post} />
+      </div>
+    ))
+  }
+</Section>
