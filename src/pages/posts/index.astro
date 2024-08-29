@@ -8,13 +8,14 @@ const allPosts = await Astro.glob("./*.md");
 allPosts.sort(sortPostsByDate);
 ---
 
-<BaseLayout />
-<Section>
-  {
-    allPosts.map((post: any) => (
-      <div class="mb-4 basis-1 last:mb-0">
-        <Card post={post} />
-      </div>
-    ))
-  }
-</Section>
+<BaseLayout>
+  <Section>
+    {
+      allPosts.map((post: any) => (
+        <div class="mb-4 basis-1 last:mb-0">
+          <Card post={post} />
+        </div>
+      ))
+    }
+  </Section>
+</BaseLayout>
