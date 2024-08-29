@@ -1,11 +1,6 @@
 ---
-import { AppConfig } from "../../utils/AppConfig";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import Section from "../../components/Section.astro";
 import Tags from "../../components/Tags.astro";
-
-const { title } = AppConfig;
-const { description } = AppConfig;
 
 const allPosts = await Astro.glob("../posts/*.md");
 
