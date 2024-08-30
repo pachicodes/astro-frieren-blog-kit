@@ -10,7 +10,7 @@ const { frontmatter } = Astro.props;
 ---
 
 <BaseLayout head={{ title: frontmatter.title, description }}>
-  <div class="mx-auto w-full max-w-screen-md">
+  <div class="my-4 mx-auto w-full max-w-screen-md">
     <PostHeader
       title={frontmatter.title}
       author={frontmatter.author}
