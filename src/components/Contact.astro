@@ -1,6 +1,6 @@
 ---
 import { Image } from "astro:assets";
-import Avatar from "../images/Frieren.png";
+import Avatar from "../images/frieren-devian.png";
 ---
 
 <!-- Contact section -->
@@ -16,13 +16,15 @@ import Avatar from "../images/Frieren.png";
   >
     <div class="relative max-w-5xl w-full">
       <!-- Image column -->
-      <div class="hidden md:block md:w-3/5 bg-gray-500 rounded-lg aspect-[16/9] overflow-hidden">
+      <div
+        class="hidden md:block md:w-3/5 bg-gray-500 rounded-lg aspect-[16/9] overflow-hidden"
+      >
         <Image
           src={Avatar}
           alt="Avatar large"
           class="rounded-lg shadow-lg w-full h-full object-cover object-[50%_40%]"
         />
-    </div>
+      </div>
       <!-- Contact form column -->
       <div
         class="md:absolute md:top-1/2 md:right-[-15%] md:transform md:-translate-y-1/2 md:w-3/5 z-10"
