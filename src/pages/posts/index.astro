@@ -10,12 +10,15 @@ allPosts.sort(sortPostsByDate);
 
 <BaseLayout>
   <Section>
-    {
-      allPosts.map((post: any) => (
-        <div class="mb-4 basis-1 last:mb-0">
-          <Card post={post} />
-        </div>
-      ))
-    }
+    <div class="flex flex-col items-center mt-6">
+      <p class="px-14 py-6 text-center text-4xl font-bold">All Posts</p>
+      {
+        allPosts.map((post: any) => (
+          <div class="mb-4 basis-1 last:mb-0">
+            <Card post={post} />
+          </div>
+        ))
+      }
+    </div>
   </Section>
 </BaseLayout>
