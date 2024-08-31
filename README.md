@@ -5,11 +5,11 @@
 
 ## What is it about??
 
-- It's an Astro blog theme based on the popular anime, [Frieren]().
+- It's an Astro blog theme based on the popular anime, [Frieren](https://en.wikipedia.org/wiki/Frieren).
 
 ### See it in action
 
-[astro-frieren-blog.netlify.app](https://astro-frieren-blog.netlify.app)
+[astro-frieren-blog-kit.netlify.app](https://astro-frieren-blog-kit.netlify.app)
 
 ## Deploy to Production
 
@@ -18,7 +18,7 @@
 ### Or clone this repo
 
 ```
-git clone https://github.com/fishingelephants/astro-frieren-blog frieren-blog
+git clone https://github.com/fishingelephants/astro-frieren-blog-kit frieren-blog
 ```
 
 ```
