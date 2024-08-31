@@ -6,12 +6,10 @@ description: List of Frieren characters
 author: reifu
 excerpt: "This is a list of characters from Frieren: Beyond Journey's End, a Japanese manga series written by Kanehito Yamada and illustrated by Tsukasa Abe. The character names are all German words."
 image:
-  src:
-  alt:
+  src: https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Frierenheroparty.png/220px-Frierenheroparty.png
+  alt: frieren-hero-party
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - bio
 ---
 
 ## Frieren's Party

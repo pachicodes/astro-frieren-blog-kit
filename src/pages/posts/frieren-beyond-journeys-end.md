@@ -6,12 +6,10 @@ description: "Frieren: Beyond Journey's End is an anime television series based 
 author: reifu
 excerpt: The story follows elven mage Frieren, a former member of the party of adventurers who defeated the Demon King and restored harmony to the world after a ten-year quest. As years pass, Frieren stays the same due to her longer lifespan while the others age.
 image:
-  src:
-  alt:
+  src: https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Frierendvdcover.jpg/220px-Frierendvdcover.jpg
+  alt: frieren-anime
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - intro
 ---
 
 |[![](https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Frierendvdcover.jpg/220px-Frierendvdcover.jpg)](https://en.wikipedia.org/wiki/File:Frierendvdcover.jpg)<br><br>

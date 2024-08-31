@@ -1,3 +1,3 @@
-export const SITE_TITLE = "AstroNote - Portfolio Kit";
+export const SITE_TITLE = "Astro Frieren Blog Kit";
 export const SITE_DESCRIPTION =
-  "Starterkit to build a portfolio page with Astro and NotionCMS";
+  "Starterkit to build Frieren-themed blog with Astro";
