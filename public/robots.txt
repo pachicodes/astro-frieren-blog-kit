@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nicdun.dev/sitemap-index.xml
+Sitemap: https://astro-frieren-blog-kit.netlify.app/sitemap-index.xml
