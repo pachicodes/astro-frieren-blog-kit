@@ -6,7 +6,7 @@ description: List of Frieren characters
 author: reifu
 excerpt: "This is a list of characters from Frieren: Beyond Journey's End, a Japanese manga series written by Kanehito Yamada and illustrated by Tsukasa Abe. The character names are all German words."
 image:
-  src: https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Frierenheroparty.png/220px-Frierenheroparty.png
+  src: /frieren-gang.avif
   alt: frieren-hero-party
 tags:
   - bio
@@ -445,4 +445,3 @@ Glück was the feudal lord of the Fortified City of Weise. The death of his son 
 Lektüre (レクテュール, *Rekutyūru*)[[bq]](https://en.wikipedia.org/wiki/List_of_Frieren_characters#cite_note-84)
 
 Lektüre is the daughter of Glück and the late wife of Denken. She was a childhood friend of Denken and had a frail body which eventually resulted in her succumbing to her death.
-
