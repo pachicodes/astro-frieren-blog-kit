@@ -12,7 +12,9 @@ tags:
   - intro
 ---
 
-*[Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren:_Beyond_Journey%27s_End "Frieren: Beyond Journey's End")* is an [anime](https://en.wikipedia.org/wiki/Anime "Anime") television series based on the [manga](https://en.wikipedia.org/wiki/Manga "Manga") series of the same name written by Kanehito Yamada and illustrated by Tsukasa Abe. It is produced by [Madhouse](<https://en.wikipedia.org/wiki/Madhouse_(company)> "Madhouse (company)") and directed by Keiichirō Saitō, with scripts by Tomohiro Suzuki, character designs by Reiko Nagasawa, and music composed by [Evan Call](https://en.wikipedia.org/wiki/Evan_Call "Evan Call").
+### [Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren:_Beyond_Journey%27s_End "Frieren: Beyond Journey's End") is an [anime](https://en.wikipedia.org/wiki/Anime "Anime") television series based on the [manga](https://en.wikipedia.org/wiki/Manga "Manga") series of the same name written by Kanehito Yamada and illustrated by Tsukasa Abe.
+
+It is produced by [Madhouse](<https://en.wikipedia.org/wiki/Madhouse_(company)> "Madhouse (company)") and directed by Keiichirō Saitō, with scripts by Tomohiro Suzuki, character designs by Reiko Nagasawa, and music composed by [Evan Call](https://en.wikipedia.org/wiki/Evan_Call "Evan Call").
 
 The story follows elven mage [Frieren](<https://en.wikipedia.org/wiki/Frieren_(character)> "Frieren (character)"), a former member of the party of adventurers who defeated the Demon King and restored harmony to the world after a ten-year quest. As years pass, Frieren stays the same due to her longer lifespan while the others age. Many years after the hero Himmel's death, Frieren regrets keeping her former companions at arm's length and not getting to know them better during their adventure. After learning of the resting place of souls in the northernmost part of the continent, Frieren embarks on a long journey to give Himmel's soul a proper farewell. In the process, Frieren and a new group of traveling companions retrace the path to the Demon King's castle taken by Frieren's original party, bringing back old memories.
 
