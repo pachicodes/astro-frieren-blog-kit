@@ -6,7 +6,7 @@
 
 - It's an Astro blog theme based on the popular anime, [Frieren](https://en.wikipedia.org/wiki/Frieren).
 
-### See it in action
+## See it in action
 
 [astro-frieren-blog-kit.netlify.app](https://astro-frieren-blog-kit.netlify.app)
 
