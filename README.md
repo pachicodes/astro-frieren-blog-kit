@@ -10,11 +10,7 @@
 
 [astro-frieren-blog-kit.netlify.app](https://astro-frieren-blog-kit.netlify.app)
 
-## Deploy to Production
-
-[Deploy to Netlify]
-
-### Or clone this repo
+## Clone this repo
 
 ```
 git clone https://github.com/fishingelephants/astro-frieren-blog-kit frieren-blog
