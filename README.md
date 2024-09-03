@@ -28,11 +28,11 @@ npm install
 npm run dev
 ```
 
-## Setup Notion as CMS
+## Setup Obsidian
 
 - WIP
 
-## Setup Obsidian
+### Setup Notion as CMS (Optional)
 
 - WIP
 
