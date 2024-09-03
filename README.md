@@ -30,7 +30,7 @@ npm run dev
 
 ## Bonus tip:
 
-#### How to setup Obsidian to draft, edit, and publish blog post
+### How to setup Obsidian to draft, edit, and publish blog post
 
 - work in progress
 
