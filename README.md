@@ -28,13 +28,15 @@ npm install
 npm run dev
 ```
 
-## Bonus: Setup Obsidian
+## Bonus tip:
+
+- Use Obsidian to draft, edit, and publish blog post
+
+### The Setup
 
 - WIP
 
-~### Setup Notion as CMS (Optional)~
-
-- WIP
+~Setup Notion as CMS (Optional)~
 
 ## Folder Structure
 
