@@ -1,9 +1,8 @@
 # Astro Frieren Blog Kit
 
-[netlify success]
-[image in action]
+![cover](./public/astro-frieren-theme-light.png)
 
-## What is it about??
+## What is it about?
 
 - It's an Astro blog theme based on the popular anime, [Frieren](https://en.wikipedia.org/wiki/Frieren).
 
