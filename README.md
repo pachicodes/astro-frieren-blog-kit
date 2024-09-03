@@ -48,3 +48,7 @@ Inside of your Astro project, you'll see the following folders and files:
 │       └── index.astro
 └── package.json
 ```
+
+## Need Help?
+
+Contact at [biolink.leifjerami.com](https://biolink.leifjerami.com)
