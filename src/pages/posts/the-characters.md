@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/post.astro
 title: The Characters
-pubDate: 2023-12-25
+pubDate: 2024-09-03
 description: List of Frieren characters
 author: reifu
 excerpt: "This is a list of characters from Frieren: Beyond Journey's End, a Japanese manga series written by Kanehito Yamada and illustrated by Tsukasa Abe. The character names are all German words."

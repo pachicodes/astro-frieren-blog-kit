@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/post.astro
 title: "Frieren: Beyond Journey's End"
-pubDate: 2023-12-23
+pubDate: 2024-09-03
 description: "Frieren: Beyond Journey's End is an anime television series based on the manga series of the same name written by Kanehito Yamada and illustrated by Tsukasa Abe."
 author: reifu
 excerpt: The story follows elven mage Frieren, a former member of the party of adventurers who defeated the Demon King and restored harmony to the world after a ten-year quest. As years pass, Frieren stays the same due to her longer lifespan while the others age.
