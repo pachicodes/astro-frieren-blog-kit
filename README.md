@@ -30,11 +30,9 @@ npm run dev
 
 ## Bonus tip:
 
-- Use Obsidian to draft, edit, and publish blog post
+#### How to setup Obsidian to draft, edit, and publish blog post
 
-### The Setup
-
-- WIP
+- work in progress
 
 ~Setup Notion as CMS (Optional)~
 
