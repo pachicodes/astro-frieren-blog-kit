@@ -28,6 +28,14 @@ npm install
 npm run dev
 ```
 
+## Setup Notion as CMS
+
+- WIP
+
+## Setup Obsidian
+
+- WIP
+
 ## Folder Structure
 
 Inside of your Astro project, you'll see the following folders and files:
