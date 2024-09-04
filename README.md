@@ -1,6 +1,6 @@
 # Astro Frieren Blog Kit
 
-![cover](./public/astro-frieren-theme-light.png)
+![cover](./public/frieren-theme-light.png)
 
 ## What is it about?
 
