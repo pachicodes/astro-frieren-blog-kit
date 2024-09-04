@@ -8,7 +8,7 @@
 
 ## See it in action
 
-[astro-frieren-blog-kit.netlify.app](https://astro-frieren-blog-kit.netlify.app)
+[Demo site on Netlify](https://astro-frieren-blog-kit.netlify.app)
 
 ## Clone this repo
 
@@ -33,8 +33,6 @@ npm run dev
 ### How to setup Obsidian to draft, edit, and publish blog post
 
 - work in progress
-
-~Setup Notion as CMS (Optional)~
 
 ## Folder Structure
 
