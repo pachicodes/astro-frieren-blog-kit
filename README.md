@@ -50,4 +50,5 @@ Inside of your Astro project, you'll see the following folders and files:
 
 ## Need Help?
 
-Contact at [biolink.leifjerami.com](https://biolink.leifjerami.com)
+You can contact via my biolink, [biolink.leifjerami.com](https://biolink.leifjerami.com).
+You can have your own biolink [here](https://github.com/fishingelephants/astro-biolink-kit).
