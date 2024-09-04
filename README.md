@@ -5,6 +5,7 @@
 ## What is it about?
 
 - It's an Astro blog theme based on the popular anime, [Frieren](https://en.wikipedia.org/wiki/Frieren).
+- You can watch it on Netflix (Asia) or [Crunchyroll](https://www.crunchyroll.com/series/GG5H5XQX4/frieren-beyond-journeys-end).
 
 ## See it in action
 
