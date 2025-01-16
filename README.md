@@ -14,7 +14,7 @@
 ## Clone this repo
 
 ```
-git clone https://github.com/fishingelephants/astro-frieren-blog-kit frieren-blog
+git clone https://github.com/leifjerami/astro-frieren-blog-kit frieren-blog
 ```
 
 ```
@@ -51,4 +51,4 @@ Inside of your Astro project, you'll see the following folders and files:
 ## Need Help?
 
 You can contact via my biolink, [biolink.leifjerami.com](https://biolink.leifjerami.com).
-You can have your own biolink [here](https://github.com/fishingelephants/astro-biolink-kit).
+You can have your own biolink [here](https://github.com/leifjerami/astro-biolink-kit).
